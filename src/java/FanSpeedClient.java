@@ -8,6 +8,7 @@ import android.util.Log;
  * Provides methods to control the fan speed.
  */
 public class FanSpeedClient {
+
     private static final String TAG = "FanSpeedClient";
     private static final String IFANSPEEDCONTROL_SERVICE="com.example.fancontrollerapp.IFanSpeedControlService/default" (Location of the service class);
     private IFanSpeedControlService fanSpeedControlService;

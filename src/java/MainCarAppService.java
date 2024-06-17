@@ -9,6 +9,7 @@ import androidx.car.app.validation.HostValidator;
  */
 public class MainCarAppService extends CarAppService {
 
+
     /**
      * Creates a host validator to validate the host connecting to the car app.
      *

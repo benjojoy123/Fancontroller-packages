@@ -10,7 +10,6 @@ import androidx.car.app.Session;
 public class MainSession extends Session {
 
     private FanSpeedClient fanSpeedClient;
-
     /**
      * Constructor for MainSession.
      * Initializes the FanSpeedClient and binds the service.

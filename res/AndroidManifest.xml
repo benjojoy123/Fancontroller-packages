@@ -9,6 +9,7 @@
     <uses-permission android:name="com.android.car.permission.BIND_CAR_APP_SERVICE" />
 
     <application
+
         android:allowBackup="true"
         android:appCategory="audio"
         android:icon="@mipmap/ic_launcher"

@@ -23,7 +23,6 @@ public class MainScreen extends Screen {
     private final FanSpeedClient fanSpeedClient;
     private boolean fanOn;
     private String toggleTitle;
-
     /**
      * Constructor for MainScreen.
      * Initializes the FanSpeedClient and sets the initial fan status and toggle title.
